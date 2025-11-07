@@ -2,6 +2,8 @@
 
 A fun and interactive memory-based game built using HTML, CSS, and JavaScript. The goal is to repeat the sequence of colors shown by the game. Each round gets harder as the sequence increases in length!
 
+![pic1](https://github.com/swarnimakumari/Simon-Says-Game/blob/main/pic1.png)
+
 🚀 Features
 
 Simple and responsive design
